@@ -2,5 +2,5 @@
 
 Here i descirbe what i did to set up my environment and how that is helpful.
 
-![Alt text](tjing_bash.png)
+![Alt text](tjiang_bash.png)
 ![Alt text](setup_env.png)
